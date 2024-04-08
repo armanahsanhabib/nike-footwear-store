@@ -1,0 +1,254 @@
+[
+    {
+        "image": "shoe-image (1).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3115",
+        "price": "92",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (2).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 3201",
+        "price": "197",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (3).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 3287",
+        "price": "133",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (4).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3373",
+        "price": "484",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (5).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3459",
+        "price": "364",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (6).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 3545",
+        "price": "86",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (7).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3631",
+        "price": "463",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (8).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3717",
+        "price": "145",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (9).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 3803",
+        "price": "470",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (10).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3889",
+        "price": "110",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (11).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 3975",
+        "price": "477",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (12).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 4061",
+        "price": "68",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (13).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 4147",
+        "price": "227",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (14).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 4233",
+        "price": "463",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (15).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 4319",
+        "price": "139",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (17).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 4491",
+        "price": "279",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (19).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 4663",
+        "price": "98",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (20).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 4749",
+        "price": "115",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (21).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 4835",
+        "price": "74",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (22).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 4921",
+        "price": "226",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (23).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 5007",
+        "price": "329",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (24).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 5093",
+        "price": "190",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (25).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 5179",
+        "price": "397",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (26).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 5265",
+        "price": "30",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (27).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 5351",
+        "price": "142",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (28).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 5437",
+        "price": "365",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (29).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 5523",
+        "price": "402",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (3).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 5610",
+        "price": "482",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (5).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 5611",
+        "price": "365",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (8).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 5612",
+        "price": "368",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (11).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 5613",
+        "price": "106",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (14).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 5614",
+        "price": "203",
+        "rating": "5.00"
+    },
+    {
+        "image": "shoe-image (15).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 5615",
+        "price": "382",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (20).jpg",
+        "category": "Kid's Shoe",
+        "name": "Nike Shoe: Model 5616",
+        "price": "153",
+        "rating": "3.00"
+    },
+    {
+        "image": "shoe-image (23).jpg",
+        "category": "Men's Shoe",
+        "name": "Nike Shoe: Model 5617",
+        "price": "98",
+        "rating": "4.00"
+    },
+    {
+        "image": "shoe-image (25).jpg",
+        "category": "Women's Shoe",
+        "name": "Nike Shoe: Model 5618",
+        "price": "58",
+        "rating": "4.00"
+    }
+]
